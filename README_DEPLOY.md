@@ -2,19 +2,29 @@
 
 Bu proje statik bir HTML sitesidir. Dokploy'da deploy etmek için iki yöntem var:
 
-## Yöntem 1: Static Build Type (Önerilen - Daha Hızlı)
+## ⚠️ ÖNEMLİ: Static Build Type Kullanın!
 
-### Dokploy Ayarları
-- **Build Type**: `Static` seçin
-- **Publish Directory**: `html` yazın
-- **Build Command**: Boş bırakın
-- **Install Command**: Boş bırakın
+Bu site için **Dockerfile'a GEREK YOK**. Dokploy'da mutlaka **Static** build type seçin.
 
-## Yöntem 2: Dockerfile ile (Alternatif)
+### Dokploy Ayarları (ZORUNLU)
 
-Eğer Static build type çalışmazsa, Dockerfile kullanılabilir:
-- **Build Type**: `Dockerfile` seçin
-- Dockerfile otomatik olarak algılanacak
+1. **Build Type**: `Static` seçin (Dockerfile DEĞİL!)
+2. **Publish Directory**: `html` yazın
+3. **Build Command**: Boş bırakın
+4. **Install Command**: Boş bırakın
+5. **Autodeploy**: İsteğe bağlı
+6. **Clean Cache**: Açık (önerilir)
+
+### Neden Static?
+
+- ✅ Build gerektirmez (sadece HTML, CSS, JS)
+- ✅ Çok daha hızlı deploy
+- ✅ Network timeout sorunu yok
+- ✅ Docker registry'ye bağlanmaya gerek yok
+
+### Eğer Dockerfile Hatası Alırsanız
+
+Dockerfile otomatik algılanırsa, Dokploy'da **Build Type**'ı manuel olarak **Static** olarak değiştirin.
 
 ### 2. Provider Ayarları
 - Repository'nizi seçin
