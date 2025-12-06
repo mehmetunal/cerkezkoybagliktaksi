@@ -1,12 +1,20 @@
 # Dokploy Deployment Ayarları
 
-Bu proje statik bir HTML sitesidir. Dokploy'da deploy etmek için aşağıdaki ayarları yapın:
+Bu proje statik bir HTML sitesidir. Dokploy'da deploy etmek için iki yöntem var:
 
-## Dokploy Ayarları
+## Yöntem 1: Static Build Type (Önerilen - Daha Hızlı)
 
-### 1. Build Type
+### Dokploy Ayarları
 - **Build Type**: `Static` seçin
 - **Publish Directory**: `html` yazın
+- **Build Command**: Boş bırakın
+- **Install Command**: Boş bırakın
+
+## Yöntem 2: Dockerfile ile (Alternatif)
+
+Eğer Static build type çalışmazsa, Dockerfile kullanılabilir:
+- **Build Type**: `Dockerfile` seçin
+- Dockerfile otomatik olarak algılanacak
 
 ### 2. Provider Ayarları
 - Repository'nizi seçin

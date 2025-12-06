@@ -1,0 +1,11 @@
+node_modules
+.git
+.gitignore
+README.md
+README_DEPLOY.md
+SEO_TASARIM_PLANI.md
+LICENSE
+.dokploy.json
+pages/
+blog/
+
