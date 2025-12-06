@@ -3,6 +3,7 @@
   "publishDirectory": "html",
   "buildCommand": "",
   "installCommand": "",
-  "ignoreDockerfile": true
+  "ignoreDockerfile": true,
+  "forceStatic": true
 }
 
