@@ -1,0 +1,45 @@
+{
+  "genel": [
+    {
+      "question": "Bağlık'tan İstanbul Havalimanı'na ne kadar sürer?",
+      "answer": "Bağlık'tan İstanbul Havalimanı'na yaklaşık 1.5 saat sürmektedir. Trafik durumuna göre bu süre değişebilir."
+    },
+    {
+      "question": "Gece tarifesi ne zaman başlar?",
+      "answer": "Gece tarifesi saat 23:00'da başlar ve 06:00'a kadar devam eder. Bu saatler arasında %20 ek ücret uygulanır."
+    },
+    {
+      "question": "Hangi bölgelerde hizmet veriyorsunuz?",
+      "answer": "Bağlık bölgesinde hizmet vermekteyiz. Bağlık taksi durağı olarak ayrıca şehirler arası ve havalimanı transfer hizmetleri de sunmaktayız."
+    },
+    {
+      "question": "7/24 hizmet veriyor musunuz?",
+      "answer": "Evet, 7 gün 24 saat kesintisiz hizmet vermekteyiz."
+    }
+  ],
+  "hizmetler": [
+    {
+      "question": "Havalimanı transferinde bagaj limiti var mı?",
+      "answer": "Standart bagaj limiti vardır. Fazla bagaj için önceden bilgi vermeniz gerekmektedir."
+    },
+    {
+      "question": "Şehirler arası taksi hizmetinde mola veriliyor mu?",
+      "answer": "Evet, uzun yolculuklarda mola imkanı sunulmaktadır."
+    }
+  ],
+  "odeme": [
+    {
+      "question": "Hangi ödeme yöntemlerini kabul ediyorsunuz?",
+      "answer": "Nakit ve kredi kartı ile ödeme kabul edilmektedir."
+    },
+    {
+      "question": "Fatura kesiliyor mu?",
+      "answer": "Evet, fatura kesilmektedir. Fatura bilgilerinizi rezervasyon sırasında belirtebilirsiniz."
+    },
+    {
+      "question": "Taksit imkanı var mı?",
+      "answer": "Kredi kartı ile ödemelerde bankanızın taksit imkanları geçerlidir."
+    }
+  ]
+}
+

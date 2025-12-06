@@ -1,0 +1,36 @@
+{
+  "companyStory": "Çerkezköy Bağlık Taksi olarak 2025 yılından beri Çerkezköy ilçesine bağlı Bağlık bölgesinde güvenilir taksi hizmeti sunmaktayız. Bağlık taksi durağı olarak bölgenin önde gelen taksi firmalarından biriyiz.",
+  "mission": "Müşterilerimize güvenilir, hızlı ve konforlu ulaşım hizmeti sunarak hayatlarını kolaylaştırmak.",
+  "vision": "Bağlık bölgesinde taksi hizmeti denince akla ilk gelen, teknoloji ile donatılmış, müşteri odaklı ve sürdürülebilir bir taksi firması olmak.",
+  "values": [
+    {
+      "title": "Güvenilirlik",
+      "description": "Zamanında varış ve güvenli yolculuk garantisi"
+    },
+    {
+      "title": "Müşteri Memnuniyeti",
+      "description": "Her müşterimiz bizim için değerlidir"
+    },
+    {
+      "title": "Profesyonellik",
+      "description": "Deneyimli şoför kadromuz ve modern araç filosu"
+    },
+    {
+      "title": "Uygun Fiyat",
+      "description": "Kaliteli hizmeti uygun fiyatlarla sunmak"
+    },
+    {
+      "title": "7/24 Hizmet",
+      "description": "Kesintisiz hizmet anlayışı"
+    }
+  ],
+  "stats": {
+    "founded": "2025",
+    "annualPassengers": "50.000+",
+    "fleet": "25+ araç",
+    "satisfaction": "%98",
+    "drivers": "30+ şoför"
+  },
+  "description": "Yılların deneyimi ve müşteri memnuniyeti odaklı hizmet anlayışımızla Bağlık bölgesinde güvenilir taksi hizmeti sağlıyoruz. Modern araç filosu ve deneyimli şoför kadromuz ile müşterilerimize en iyi hizmeti sunmayı hedefliyoruz. Bağlık taksi durağı olarak teknolojik altyapımız ve müşteri odaklı yaklaşımımız sayesinde binlerce memnun müşteriye hizmet verdik ve vermeye devam ediyoruz."
+}
+

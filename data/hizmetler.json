@@ -1,0 +1,64 @@
+[
+  {
+    "slug": "sehir-ici-taksi",
+    "title": "Şehir İçi Taksi Hizmeti",
+    "description": "Bağlık bölgesinde 7/24 şehir içi taksi hizmeti. Bağlık taksi durağı olarak hızlı, güvenilir ve uygun fiyatlı ulaşım çözümü.",
+    "features": [
+      "7/24 hizmet",
+      "Hızlı varış",
+      "Güvenli yolculuk",
+      "Uygun fiyat"
+    ],
+    "price": "Mesafe bazlı ücretlendirme"
+  },
+  {
+    "slug": "havalimani-transferi",
+    "title": "Havalimanı Transfer Hizmeti",
+    "description": "Bağlık'tan İstanbul Havalimanı (IST), Sabiha Gökçen (SAW) ve Çorlu Havalimanı'na güvenli ve konforlu transfer hizmeti.",
+    "features": [
+      "Zamanında varış garantisi",
+      "Geniş bagaj kapasitesi",
+      "Konforlu araçlar",
+      "Rezervasyon ile kesin yer"
+    ],
+    "airports": [
+      "İstanbul Havalimanı (IST)",
+      "Sabiha Gökçen (SAW)",
+      "Çorlu Havalimanı"
+    ]
+  },
+  {
+    "slug": "sehirler-arasi-taksi",
+    "title": "Şehirler Arası Taksi Hizmeti",
+    "description": "Bağlık'tan Türkiye'nin her yerine şehirler arası taksi hizmeti. Uzun yolculuklarınız için konforlu ve güvenli ulaşım.",
+    "features": [
+      "Uzun yol deneyimi",
+      "Konforlu araçlar",
+      "Mola imkanı",
+      "Sabit fiyat garantisi"
+    ]
+  },
+  {
+    "slug": "gece-taksi",
+    "title": "Gece Taksi Hizmeti",
+    "description": "Bağlık'ta gece saatlerinde de kesintisiz taksi hizmeti. Bağlık taksi durağı olarak güvenli ve hızlı ulaşım garantisi.",
+    "features": [
+      "7/24 hizmet",
+      "Hızlı varış",
+      "Güvenli yolculuk",
+      "Gece tarifesi"
+    ]
+  },
+  {
+    "slug": "baglik-taksi",
+    "title": "Bağlık Taksi Hizmeti",
+    "description": "Bağlık bölgesinde özel taksi hizmeti. Bağlık taksi durağı olarak şehir içi ve şehirler arası ulaşım çözümleri.",
+    "features": [
+      "Bölge uzmanı şoförler",
+      "Hızlı varış",
+      "Uygun fiyat",
+      "7/24 hizmet"
+    ]
+  }
+]
+
