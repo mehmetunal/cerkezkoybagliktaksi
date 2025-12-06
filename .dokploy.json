@@ -2,6 +2,7 @@
   "buildType": "static",
   "publishDirectory": "html",
   "buildCommand": "",
-  "installCommand": ""
+  "installCommand": "",
+  "ignoreDockerfile": true
 }
 
